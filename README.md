@@ -9,7 +9,7 @@
 
 
 
-const MM = {
+const MM = { </br>
   pronouns: "he" | "him", </br>
   code: [Javascript, HTML, CSS, Python], </br>
   tools: [React, MySql, Pandas, Pyplot, Sklearn],</br>
