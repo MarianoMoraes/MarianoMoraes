@@ -1,12 +1,12 @@
 <h2> Hi, I'm Mariano Moraes ! </h2>
 
-<p><em>Front End Developer in Blue Globe Media </br> Data Science Studient at It Academy <a href="https://"></em></p>
+<p><em>Front End Developer in Blue Globe Media </br> Data Science Studient at It Academy </em></p>
 
 [Linkedin: MarianoMoraes](https://www.linkedin.com/in/mariano-moraes/)
 [GitHub MarianoMoraes](https://github.com/MarianoMoraes)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const Mm = {
