@@ -1,6 +1,6 @@
 <h2> Hola, Soy Mariano! </h2>
 
-<p><em>Front End Developer at @BlueGlobeMedia </br> Data Science Studient at It Academy </em></p>
+<p><em>Front End Developer at @BlueGlobeMedia </br> Data Science Studient at @ItAcademy </em></p>
 
 [Linkedin: MarianoMoraes](https://www.linkedin.com/in/mariano-moraes/) </br>
 [GitHub MarianoMoraes](https://github.com/MarianoMoraes)
