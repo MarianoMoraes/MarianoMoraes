@@ -5,15 +5,7 @@
 [Linkedin: MarianoMoraes](https://www.linkedin.com/in/mariano-moraes/) </br>
 [GitHub MarianoMoraes](https://github.com/MarianoMoraes)
 
-
-
-
-
-const MM = { </br>
-  pronouns: "he" | "him", </br>
-  code: [Javascript, HTML, CSS, Python], </br>
-  tools: [React, MySql, Pandas, Pyplot, Sklearn],</br>
-}</br>
+</br>
 
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
