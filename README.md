@@ -3,7 +3,6 @@
 <p><em>Data Science Studient at @ItAcademy </em></p>
 
 [Linkedin: MarianoMoraes](https://www.linkedin.com/in/mariano-moraes/) </br>
-[GitHub MarianoMoraes](https://github.com/MarianoMoraes)
 
 </br>
 
