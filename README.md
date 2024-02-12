@@ -1,6 +1,6 @@
 <h2> Hola, Soy Mariano! </h2>
 
-<p><em>Data Science Studient at @ItAcademy </em></p>
+Data Analyst
 
 [Linkedin: MarianoMoraes](https://www.linkedin.com/in/mariano-moraes/) </br>
 
